@@ -1,0 +1,8 @@
+```
+text
+Instalación del proyecto
+
+1. Descargar el repositorio.
+2. Abrir el proyecto.
+3. Ejecutar la aplicación.
+```
